@@ -1,7 +1,7 @@
 # Kepler Space Telescope Planet Explorer
 - Node Application exploring data gathered by the Kepler Space Telescope.
 ## createReadStream([options])
-- [NPM] (https://nodejs.org/api/fs.html#filehandlecreatereadstreamoptions) {:target='_blank'}
+- [NPM] https://nodejs.org/api/fs.html#filehandlecreatereadstreamoptions?target='_blank'
 
 
 ## csv-parse
