@@ -1,0 +1,18 @@
+{
+  "name": "exoplanet-explorer-nodejs-ztm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DRSantillan/exoplanet-explorer-nodejs-ztm.git",
+  "author": "Dean <dean@deansantillan.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "dev": "nodemon index"
+  }
+}
